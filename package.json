@@ -1,0 +1,22 @@
+{
+  "name": "doiasami-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d0iasm/d0iasm.github.io.git"
+  },
+  "author": "doi_asami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d0iasm/d0iasm.github.io/issues"
+  },
+  "homepage": "https://github.com/d0iasm/d0iasm.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
