@@ -10,13 +10,24 @@
     "type": "git",
     "url": "git+https://github.com/d0iasm/d0iasm.github.io.git"
   },
-  "author": "doi_asami",
+  "author": "https://github.com/d0iasm",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/d0iasm/d0iasm.github.io/issues"
   },
   "homepage": "https://github.com/d0iasm/d0iasm.github.io#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-ejs": "^3.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-webpack": "^1.5.0"
+  },
+  "scripts": {
+    "build": "webpack"
   }
 }
