@@ -7,10 +7,56 @@ import (
 	"strings"
 )
 
+type Type int
+
+const (
+	unknown Type = iota
+	h1
+	h2
+	h3
+	li
+	p
+	br
+)
+
+type Token struct {
+	ty  Type
+	val string
+}
+
 func check(e error) {
 	if e != nil {
 		panic(e)
 	}
+}
+
+func preprocess(s string) string {
+	return strings.ReplaceAll(s, " ", "")
+}
+
+func tokenize(s string) Token {
+	switch {
+	case strings.HasPrefix(s, "#"):
+		switch n := strings.Count(s, "#"); n {
+		case 1:
+			return Token{h1, s[1:]}
+		case 2:
+			return Token{h2, s[2:]}
+		case 3:
+			return Token{h3, s[3:]}
+		}
+	case strings.HasPrefix(s, "-") || strings.HasPrefix(s, "*"):
+		return Token{li, s[1:]}
+	case len(s) == 0:
+		return Token{br, s}
+	default:
+		return Token{p, s}
+	}
+	return Token{unknown, s}
+}
+
+func generate(t Token) string {
+	return ""
 }
 
 func main() {
@@ -25,12 +71,13 @@ func main() {
 	check(err)
 	defer wfile.Close()
 
-        scanner := bufio.NewScanner(rfile)
-        writer := bufio.NewWriter(wfile)
-        text := ""
-        for scanner.Scan() {
-		text = scanner.Text()
-		fmt.Fprintln(writer, text)
+	scanner := bufio.NewScanner(rfile)
+	writer := bufio.NewWriter(wfile)
+	for scanner.Scan() {
+		text := preprocess(scanner.Text())
+		token := tokenize(text)
+		//          html := generate(token)
+		fmt.Fprintln(writer, token)
 	}
 	err = scanner.Err()
 	check(err)
