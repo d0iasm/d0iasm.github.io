@@ -31,8 +31,8 @@ func check(e error) {
 }
 
 func preprocess(s string) string {
-	// return strings.ReplaceAll(s, " ", "")
-        return s
+	//TODO: Remove unused whitespaces. strings.ReplaceAll(s, " ", "") does not work well because whitespaces between words are necessary.
+	return s
 }
 
 func tokenize(s string) Token {
@@ -76,6 +76,22 @@ func generate(t Token) string {
 	return ""
 }
 
+func css() string {
+	return `
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Lora|Noto+Serif|Noto+Serif+JP" rel="stylesheet">
+<style>
+body {
+  font-family: 'Lora', 'Noto Serif', 'Noto Serif JP', serif;
+  max-width: 740px;
+  margin: 0 auto;
+}
+h1, h2, h3 {
+  font-family: 'Abril Fatface', cursive;
+}
+</style>
+`
+}
+
 func main() {
 	fname := os.Args[1]
 	name := strings.Split(fname, ".")
@@ -90,6 +106,7 @@ func main() {
 
 	scanner := bufio.NewScanner(rfile)
 	writer := bufio.NewWriter(wfile)
+	fmt.Fprintln(writer, css())
 	for scanner.Scan() {
 		text := preprocess(scanner.Text())
 		token := tokenize(text)
