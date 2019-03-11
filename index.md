@@ -22,9 +22,9 @@ Master student whose major is artificial life(ALife). I am studying in Japan.
 - Participation in cyber security scholarships at Cisco.
 
 ## Projects
-- Haribote OS: https://github.com/d0iasm/haribote-os
-- Graphy: https://github.com/d0iasm/graphy 
-- Photo Editor Bot: https://github.com/d0iasm/photo-editor-bot
+- Haribote OS/2018 Apr. ~ Dec./C,Assembly -- Haribote OS based on x86, 32-bit. https://github.com/d0iasm/haribote-os
+- Graphy/2017 Jun. ~ 2018 Feb./Python,DigitalOcean,AWS S3 -- The goal of Graphy is to help us decide whether or not to read all our unread messages, and to let us get an idea of their content before reading them. This bot creates an image from the text by using dependency analysis. In addition, the nodes of important keywords are emphasized by color and size. https://github.com/d0iasm/graphy 
+- Photo Editor Bot/2017 Feb./PHP,Slim,Heroku -- I am interested in how to work efficiently. Thus many tasks have to work automatically as much as possible. In this age that people upload many pictures to the SNS, photo editing is necessary but it would waste of the time. This BOT works  based on LINE, so people can invite it to thier chat group and the BOT automatically edits photos. https://github.com/d0iasm/photo-editor-bot
 
 ## OSS Contributions
 - Chromium
