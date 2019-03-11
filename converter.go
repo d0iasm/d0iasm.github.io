@@ -31,7 +31,8 @@ func check(e error) {
 }
 
 func preprocess(s string) string {
-	return strings.ReplaceAll(s, " ", "")
+	// return strings.ReplaceAll(s, " ", "")
+        return s
 }
 
 func tokenize(s string) Token {
