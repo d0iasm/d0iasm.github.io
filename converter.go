@@ -56,6 +56,18 @@ func tokenize(s string) Token {
 }
 
 func generate(t Token) string {
+	switch t.ty {
+	case h1:
+		return "<h1>" + t.val + "</h1>"
+	case h2:
+		return "<h2>" + t.val + "</h2>"
+	case h3:
+		return "<h3>" + t.val + "</h3>"
+	case p:
+		return "<p>" + t.val + "</p>"
+	case br:
+		return "<br/>"
+	}
 	return ""
 }
 
@@ -76,8 +88,8 @@ func main() {
 	for scanner.Scan() {
 		text := preprocess(scanner.Text())
 		token := tokenize(text)
-		//          html := generate(token)
-		fmt.Fprintln(writer, token)
+		html := generate(token)
+		fmt.Fprintln(writer, html)
 	}
 	err = scanner.Err()
 	check(err)
