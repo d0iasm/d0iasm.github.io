@@ -65,6 +65,8 @@ func generate(t Token) string {
 		return "<h2>" + t.val + "</h2>"
 	case h3:
 		return "<h3>" + t.val + "</h3>"
+	case li:
+		return "<li>" + t.val + "</li>"
 	case p:
 		return "<p>" + t.val + "</p>"
 	case br:
