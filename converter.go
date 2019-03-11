@@ -37,12 +37,14 @@ func preprocess(s string) string {
 func tokenize(s string) Token {
 	switch {
 	case strings.HasPrefix(s, "#"):
-		switch n := strings.Count(s, "#"); n {
-		case 1:
+		n := strings.Count(s, "#")
+		if n == 1 {
 			return Token{h1, s[1:]}
-		case 2:
+		}
+		if n == 2 {
 			return Token{h2, s[2:]}
-		case 3:
+		}
+		if n >= 3 {
 			return Token{h3, s[3:]}
 		}
 	case strings.HasPrefix(s, "-") || strings.HasPrefix(s, "*"):
