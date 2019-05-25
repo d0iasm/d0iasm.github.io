@@ -1,9 +1,15 @@
 # d0iasm.github.io
+[GitHub](https://github.com/d0iasm) | [Twitter](https://twitter.com/d0iasm)
 I am a master student and researching on artificial life(ALife) in Japan. The goal of my research is knowing what aesthetic dynamics makes us impressed. I am also intersted in system programming such as an operating system and an emulator. 
 
 ## Education
-Master of Informatics at Graduate Nagoya University, April 2018 ~ Now — Worked on the research about an artificial life. In particular, I am interested in a swarm behavior and an evolutionary algorithm.
-Bachelor of Design at Nagoya City University, April 2014 ~ March 2018 — Learned about fashion design, UI/UX, and identifying the essence of things and creating new value. Also, studied programming by myself.
+Master of Informatics at Graduate Nagoya University
+- April 2018 ~ Now
+- Worked on the research about an artificial life. In particular, I am interested in a swarm behavior and an evolutionary algorithm.
+
+Bachelor of Design at Nagoya City University
+- April 2014 ~ March 2018
+- Learned about fashion design, UI/UX, and identifying the essence of things and creating new value. Also, studied programming by myself.
 
 ## Experience
 Google Summer of Code 2019 at coreboot project
