@@ -24,7 +24,7 @@ Internship at Google
 
 Engineer at Tryeting
 - 2018 Mar. ~
-- C##
+- C#
 - Created a web application to execute AI code through APIs.
 
 Internship at pixiv
