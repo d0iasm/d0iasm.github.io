@@ -13,18 +13,16 @@ Bachelor of Design at Nagoya City University
 
 ## Experience
 Google Summer of Code 2019 at coreboot project
+[GSoC2019 project site](https://summerofcode.withgoogle.com/projects/#5148970366533632)
 - May 2019 - Now
 - C language
 - I work on coreboot. The project is "Adding QEMU/AArch64 Support to Coreboot".
-  - [GSoC2019 project site](https://summerofcode.withgoogle.com/projects/#5148970366533632)
 
 Internship at Google
+[Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi) | [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/) | [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
 - August 2018 - November 2018
 - C++, JavaScript
 - I worked on Chromium. The projecrt was "ES Modules for Service Workers".
-- [Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi)
-- [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/)
-- [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
 
 Engineer at Tryeting
 - March 2018 - Now
@@ -62,10 +60,10 @@ Internship at Ateam
 - Created the prototype of a web service which we thought of as a group. Implemented it based on Ruby on Rails.
 
 Director at university festival
+[Geikosai 2016](http://geikousai-ncu.com/2016/)
 - April 2016 - October 2016
 - HTML, CSS
 - I was a leader of a group to create a website for a university festival. I mainly did project management and taught other students how to write code.
-  - [Geikosai 2016](http://geikousai-ncu.com/2016/)
 
 Training Engineer at Kurusugawa Computer Inc.
 - August 2016
@@ -78,10 +76,10 @@ Unity Mentor at Life is Tech
 - Participated in Life is Tech as a Unity mentor.
 
 Member in UNITED
+[united.nagoya](http://united.nagoya/)
 - April 2015 - April 2016
 - HTML, CSS, JavaScript, PHP
 - I was a member of UNITED that students organized for learning web by creating websites and web applications. We met once per a week, and sometimes we were commissioned for projects from other organizations.
-  - [united.nagoya](http://united.nagoya/)
 
 ### Others
 - Poster presentation at Interaction 2018 conference.
