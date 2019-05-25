@@ -4,82 +4,89 @@ I am a master student and researching on artificial life(ALife) in Japan. The go
 
 ## Education
 Master of Informatics at Graduate Nagoya University
-- April 2018 ~ Now
+- April 2018 - Now
 - Worked on the research about an artificial life. In particular, I am interested in a swarm behavior and an evolutionary algorithm.
 
 Bachelor of Design at Nagoya City University
-- April 2014 ~ March 2018
+- April 2014 - March 2018
 - Learned about fashion design, UI/UX, and identifying the essence of things and creating new value. Also, studied programming by myself.
 
 ## Experience
 Google Summer of Code 2019 at coreboot project
-- 2019 May
+- May 2019 - Now
 - C language
-- I work on coreboot. The project is "Adding QEMU/AArch64 Support to Coreboot". The detail is available on [GSoC2019 project site](https://summerofcode.withgoogle.com/projects/#5148970366533632).
+- I work on coreboot. The project is "Adding QEMU/AArch64 Support to Coreboot".
+  - [GSoC2019 project site](https://summerofcode.withgoogle.com/projects/#5148970366533632)
 
 Internship at Google
-- 2018 Aug. ~ Nov.
+- August 2018 - November 2018
 - C++, JavaScript
-- I worked on Chromium. The projecrt was "ES Modules for Service Workers". My contribusions are [Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi), [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/), and [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/).
+- I worked on Chromium. The projecrt was "ES Modules for Service Workers".
+- [Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi)
+- [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/)
+- [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
 
 Engineer at Tryeting
-- 2018 Mar. ~
+- March 2018 - Now
 - C#
 - Created a web application to execute AI code through APIs.
 
 Internship at pixiv
-- 2018 Feb.
+- February 2018
 - PHP
 - Implemented the user filtering for notification.
 
 Engineer at Optimind
-- 2017 Dec. ~ 2018 Feb.
+- December 2018 - February 2018
 - JavaScipt
 - Created a web application of route optimization besed on Google Maps.
 
 Internship at Google
-- 2017 Aug. ~ Oct.
+- August 2017 - October 2017
 - Python
 - Created a web tool to make it easy to analyze logs using Flask and Google App Engine.
 
 STEP development course at Google
-- 2017 May. ~ Aug.
+- May 2017 - August 2017
 - Python, Go
 - Took CS courses at Google Japan.
 
 Engineer at PREVENT
-- 2017 Apr. ~ Jul.
+- April 2017 - July 2017
 - Ruby
 - Created a web APIs to transfer data between an iOS application and a website by using Ruby on Rails, Heroku, and AWS.
 
 Internship at Ateam
-- 2016 Sep.
+- September 2016
 - Ruby
 - Created the prototype of a web service which we thought of as a group. Implemented it based on Ruby on Rails.
 
 Director at university festival
-- 2016 Apr. ~ Oct.
+- April 2016 - October 2016
 - HTML, CSS
-- I was a leader of a group to create a website for a university festival. I mainly did project management and taught other students how to write code. [Geikosai 2016](http://geikousai-ncu.com/2016/).
+- I was a leader of a group to create a website for a university festival. I mainly did project management and taught other students how to write code.
+  - [Geikosai 2016](http://geikousai-ncu.com/2016/)
 
 Training Engineer at Kurusugawa Computer Inc.
-- 2016 Aug.
+- August 2016
 - Java
 - Trained as a software engineer for a month by creating Java libraries. However, I gave up the training because of lack of programming ability.
 
 Unity Mentor at Life is Tech
-- 2016 Jun.
+- June 2016
 - C#
 - Participated in Life is Tech as a Unity mentor.
 
 Member in UNITED
-- 2015 Apr. ~ 2016 Apr.
+- April 2015 - April 2016
 - HTML, CSS, JavaScript, PHP
-- I was a member of UNITED that students organized for learning web by creating websites and web applications. We met once per a week, and sometimes we were commissioned for projects from other organizations.  
+- I was a member of UNITED that students organized for learning web by creating websites and web applications. We met once per a week, and sometimes we were commissioned for projects from other organizations.
+  - [united.nagoya](http://united.nagoya/)
 
 ### Others
 - Poster presentation at Interaction 2018 conference.
 - Participation in cyber security scholarships at Cisco.
+  - [Interview of Cisco Live! 2018 in Orlando](https://www.cisco.com/c/m/ja_jp/about/security-scholarship/security-scholarship-clus2018.html)
 
 ## Projects
 Haribote OS
