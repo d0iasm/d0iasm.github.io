@@ -5,10 +5,29 @@
 }
 
 /* Styles for mobiles or tablets. */
-@media only screen and (max-device-width: 960px) {
+@media only screen and (max-device-width: 960px) and (orientation: portrait){
   body {
-    background-color: #F09A9D; /* Red */
+    overflow: hidden;
   }
+  .wrapper {
+    transform: rotate(90deg);
+    transform-origin:bottom left;
+
+    position:absolute;
+    top: -100vw;
+    left: 0;
+
+    height:100vw;
+    width:100vh;
+
+    background-color:#000;
+    color:#fff;
+
+    overflow:auto;
+  }
+}
+
+@media only screen and (max-device-width: 960px) and (orientation: landscape){
 }
 
 /* Styles for desktop PCs. */
