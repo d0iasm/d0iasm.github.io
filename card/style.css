@@ -2,28 +2,51 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-size: 52px;
+  font-family: 'Montserrat', 'M PLUS 1p',sans-serif;
+}
+
+h1 {
+  font-size: 100px;
 }
 
 /* Styles for mobiles or tablets. */
-@media only screen and (max-device-width: 960px) and (orientation: portrait){
+@media only screen and (max-device-width: 960px) and (orientation: portrait) {
   body {
     overflow: hidden;
   }
   .wrapper {
     transform: rotate(90deg);
-    transform-origin:bottom left;
-
-    position:absolute;
+    transform-origin: bottom left;
+    position: absolute;
     top: -100vw;
     left: 0;
+    height: 100vw;
+    width: 100vh;
+    background-color: #000;
+    color: #fff;
+    overflow: auto;
 
-    height:100vw;
-    width:100vh;
+    display: flex;
+    justify-content: space-between;
+  }
 
-    background-color:#000;
-    color:#fff;
+  .img-wrapper {
+    width: 47vh;
+  }
 
-    overflow:auto;
+  .img-80vw-height {
+    height: 80vw;
+    position: absolute;
+    bottom: 0;
+  }
+
+  .text-align-center {
+display: flex;
+align-items: center;
+align-content: center;
+flex-wrap: wrap;
+    width: 53vh;
   }
 }
 
