@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Styles for mobiles or tablets. */
+@media only screen and (max-device-width: 960px) {
+  body {
+    background-color: #F09A9D; /* Red */
+  }
+}
+
+/* Styles for desktop PCs. */
+@media only screen and (min-device-width: 961px) {
+  body {
+    background-color: #B2D6FF; /* Blue */
+  }
+}
