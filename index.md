@@ -1,20 +1,20 @@
 # d0iasm.github.io
 [GitHub](https://github.com/d0iasm) | [Twitter](https://twitter.com/d0iasm)
-I am a master student and researching on artificial life(ALife) in Japan. The goal of my research is knowing what aesthetic dynamics makes us impressed. I am also intersted in system programming such as an operating system and an emulator. 
+I am a master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming.
 
 ## Education
 Master of Informatics at Graduate Nagoya University
 - April 2018 - Now
-- Worked on the research about an artificial life. In particular, I am interested in a swarm behavior and an evolutionary algorithm.
+- Worked on the research on ALife. I'm trying to understand the dynamics of human's relationship based on self-driven particle system.
 
 Bachelor of Design at Nagoya City University
 - April 2014 - March 2018
-- Learned about fashion design, UI/UX, and identifying the essence of things and creating new value. Also, studied programming by myself.
+- Learned about UI/UX design, product design and design thinking which is the process to understand users and redefine problems in order to produce valuable solutions.
 
 ## Experience
 Google Summer of Code 2019 at coreboot project
-[GSoC2019 project site](https://summerofcode.withgoogle.com/projects/#5148970366533632)
-- May 2019 - Now
+[Project](https://summerofcode.withgoogle.com/projects/#5148970366533632) | [Wrap-up blog](https://blogs.coreboot.org/blog/2019/08/23/gsoc-wrap-up-for-adding-qemu-aarch64-support-to-coreboot/)
+- May 2019 - July 2019
 - C language
 - I work on coreboot. The project is "Adding QEMU/AArch64 Support to Coreboot".
 
@@ -25,7 +25,7 @@ Internship at Google
 - I worked on Chromium. The projecrt was "ES Modules for Service Workers".
 
 Engineer at Tryeting
-- March 2018 - Now
+- March 2018 - May 2019
 - C#
 - Created a web application to execute AI code through APIs.
 
@@ -95,7 +95,7 @@ Haribote OS
 Graphy
 - 2017 Jun. ~ 2018 Feb.
 - Python, DigitalOcean, AWS S3
-- The goal of Graphy is to help us decide whether or not to read all our unread messages, and to let us get an idea of their content before reading them. This bot creates an image from the text by using dependency analysis. In addition, the nodes of important keywords are emphasized by color and size. https://github.com/d0iasm/graphy 
+- The goal of Graphy is to help us decide whether or not to read all our unread messages, and to let us get an idea of their content before reading them. This bot creates an image from the text by using dependency analysis. In addition, the nodes of important keywords are emphasized by color and size. https://github.com/d0iasm/graphy
 
 Photo Editor Bot
 - 2017 Feb.
@@ -121,8 +121,8 @@ os/Slacker
 
 ## Skills
 ### Proficient With
-Language: Python, JavaScript, C++, Java
-Tools: Node.js, React.js, Flask, Vim, Git, Zsh, Ubuntu
+Language: Go, Python, JavaScript, C++, Java
+Tools: Node.js, React.js, Flask, Vim, Git, Bash, Ubuntu
 ### Have Used Before
-Language: C, C#, Ruby, PHP, Go, Rust, HTML, CSS, Assembly(Nasm)
+Language: C, C#, Ruby, PHP, Rust, HTML, CSS, Assembly(Nasm)
 Tools: Django, OpenCV, Ruby on Rails, .NET, CakePHP, Gulp, Google App Engine, Heroku, DigitalOcean, AWS, Raspberry Pi, Emacs, IntelliJ, Vagrant, Docker
