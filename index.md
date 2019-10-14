@@ -1,5 +1,5 @@
 # [d0iasm.github.io](https://d0iasm.github.io/)
-I am a master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming.
+I am a master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming especially an emulator, an OS, and a compiler.
 - [GitHub](https://github.com/d0iasm)
 - [Twitter](https://twitter.com/d0iasm)
 
@@ -13,14 +13,12 @@ Bachelor of Design at Nagoya City University
 - Learned about UI/UX design, product design and design thinking which is the process to understand users and redefine problems in order to produce valuable solutions.
 
 ## Experience
-Google Summer of Code 2019 at coreboot project
-[Project](https://summerofcode.withgoogle.com/projects/#5148970366533632) | [Wrap-up blog](https://blogs.coreboot.org/blog/2019/08/23/gsoc-wrap-up-for-adding-qemu-aarch64-support-to-coreboot/)
+Google Summer of Code 2019 at coreboot project | [Project](https://summerofcode.withgoogle.com/projects/#5148970366533632) | [Wrap-up blog](https://blogs.coreboot.org/blog/2019/08/23/gsoc-wrap-up-for-adding-qemu-aarch64-support-to-coreboot/)
 - May 2019 - July 2019
 - C language
 - I work on coreboot. The project is "Adding QEMU/AArch64 Support to Coreboot".
 
-Internship at Google
-[Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi) | [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/) | [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
+Internship at Google | [Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi) | [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/) | [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
 - August 2018 - November 2018
 - C++, JavaScript
 - I worked on Chromium. The projecrt was "ES Modules for Service Workers".
@@ -60,8 +58,7 @@ Internship at Ateam
 - Ruby
 - Created the prototype of a web service which we thought of as a group. Implemented it based on Ruby on Rails.
 
-Director at university festival
-[Geikosai 2016](http://geikousai-ncu.com/2016/)
+Director at university festival | [Geikosai 2016](http://geikousai-ncu.com/2016/)
 - April 2016 - October 2016
 - HTML, CSS
 - I was a leader of a group to create a website for a university festival. I mainly did project management and taught other students how to write code.
@@ -76,8 +73,7 @@ Unity Mentor at Life is Tech
 - C#
 - Participated in Life is Tech as a Unity mentor.
 
-Member in UNITED
-[united.nagoya](http://united.nagoya/)
+Member in UNITED | [united.nagoya](http://united.nagoya/)
 - April 2015 - April 2016
 - HTML, CSS, JavaScript, PHP
 - I was a member of UNITED that students organized for learning web by creating websites and web applications. We met once per a week, and sometimes we were commissioned for projects from other organizations.
