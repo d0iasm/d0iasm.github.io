@@ -1,9 +1,10 @@
-# d0iasm.github.io
-[GitHub](https://github.com/d0iasm) | [Twitter](https://twitter.com/d0iasm)
+# [d0iasm.github.io](https://d0iasm.github.io/)
 I am a master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming.
+- [GitHub](https://github.com/d0iasm)
+- [Twitter](https://twitter.com/d0iasm)
 
 ## Education
-Master of Informatics at Graduate Nagoya University
+Master of Informatics at Nagoya University
 - April 2018 - Now
 - Worked on the research on ALife. I'm trying to understand the dynamics of human's relationship based on self-driven particle system.
 
@@ -120,9 +121,9 @@ os/Slacker
 - OthloHack 2016/2016 Aug. — Won awards in 1 day Hackathon by suggesting new applications and create a prototype.
 
 ## Skills
-### Proficient With
-Language: Go, Python, JavaScript, C++, Java
-Tools: Node.js, React.js, Flask, Vim, Git, Bash, Ubuntu
-### Have Used Before
-Language: C, C#, Ruby, PHP, Rust, HTML, CSS, Assembly(Nasm)
-Tools: Django, OpenCV, Ruby on Rails, .NET, CakePHP, Gulp, Google App Engine, Heroku, DigitalOcean, AWS, Raspberry Pi, Emacs, IntelliJ, Vagrant, Docker
+#### Proficient With
+- Language: Go, Python, JavaScript, C++, Java
+- Tools: Node.js, React.js, Flask, Vim, Git, Bash, Ubuntu
+#### Have Used Before
+- Language: C, C#, Ruby, PHP, Rust, HTML, CSS, Assembly(Nasm)
+- Tools: Django, OpenCV, Ruby on Rails, .NET, CakePHP, Gulp, Google App Engine, Heroku, DigitalOcean, AWS, Raspberry Pi, Emacs, IntelliJ, Vagrant, Docker
