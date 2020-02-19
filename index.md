@@ -1,6 +1,6 @@
 # [d0iasm.github.io](https://d0iasm.github.io/)
 
-<img src="me.jpg" width=200 height=200 style="float:right;" />
+<img src="me.jpg" width=200vw height=200vw style="float:right;" />
 
 **Asami Doi (土井麻未)**
 
@@ -8,7 +8,7 @@ Master's student researching on artificial life (ALife) in Japan. I'm interested
 
 Love programming ❤️
 
-[Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note(jp)](https://note.com/d0iasm)
+[Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note (jp)](https://note.com/d0iasm)
 
 
 ## Experience
