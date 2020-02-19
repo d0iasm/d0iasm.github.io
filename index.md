@@ -1,6 +1,6 @@
 # [d0iasm.github.io](https://d0iasm.github.io/)
 
-<img src="me.jpg" width=200vw height=200vw style="float:right;" />
+<img src="me.jpg" width=200 height=200 style="float:right;" />
 
 **Asami Doi (土井麻未)**
 
@@ -102,11 +102,11 @@ Love programming ❤️
 - This is my first big project in PHP (Slim)! It was hosted on Heroku. I am interested in how to work efficiently. Thus many tasks have to work automatically as much as possible. In this age that people upload many pictures to the SNS, photo editing is necessary but it would waste of the time. This BOT works  based on LINE, so people can invite it to thier chat group and the BOT automatically edits photos.
 
 ## OSS Contributions
-**Wasmer**
-- wasmerio/wasmer
-  - [Adapt backend usage depending on wasm file executed](https://github.com/wasmerio/wasmer/pull/1004)
-- wasmerio/go-ext-wasm
-  - [Upgrade the cli package version to v2](https://github.com/wasmerio/go-ext-wasm/pull/110)
+**wasmerio/wasmer**
+- [Adapt backend usage depending on wasm file executed](https://github.com/wasmerio/wasmer/pull/1004)
+
+**wasmerio/go-ext-wasm**
+- [Upgrade the cli package version to v2](https://github.com/wasmerio/go-ext-wasm/pull/110)
 
 **coreboot**
 - [Commits list in Gerrit](https://review.coreboot.org/q/owner:d0iasm)
