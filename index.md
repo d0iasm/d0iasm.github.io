@@ -1,15 +1,18 @@
 # [d0iasm.github.io](https://d0iasm.github.io/)
 
-<img src="me.jpg" width=200 height=200 style="float:right;" />
-
+<div style="display:flex; align-items:center; justify-content:space-between;">
+<div style="padding-right: 7px;">
 **Asami Doi (土井麻未)**
 
 Master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming especially an emulator, an OS, and a compiler.
 
 Love programming ❤️
 
-[Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note (jp)](https://note.com/d0iasm)
+[Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note](https://note.com/d0iasm)
+</div>
 
+<img src="me.jpg" width=200 height=200 style="float:right;" />
+</div>
 
 ## Experience
 **Internship at Wasmer** | *December 2019 - Now*
@@ -140,6 +143,11 @@ Love programming ❤️
   - Joined this competitive programming content by using Java. Ranked as one of the top 10.
 - OthloHack 2016 | *August 2016*
   - Won awards in 1 day Hackathon by suggesting new applications and create a prototype.
+
+## Certifications
+- TOEIC score 910 | *November 2019*
+- Applied Information Technology Engineer Examination (応用情報技術者試験) | *April 2018*
+- 色彩検定1級
 
 ## Miscellaneous
 - Study abroad at Goldsmiths, University of London | *October 2019*
