@@ -1,31 +1,24 @@
 # [d0iasm.github.io](https://d0iasm.github.io/)
 
-<div style="display:flex; align-items:center; justify-content:space-between;">
-<div style="padding-right: 7px;">
-**Asami Doi (土井麻未)**
+**Asami Doi**
 
-Master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming especially an emulator, an OS, and a compiler.
-
-Love programming ❤️
+Master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming especially an emulator, an OS, and a compiler. Love programming ❤️
 
 [Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note](https://note.com/d0iasm)
-</div>
-
-<img src="me.jpg" width=200 height=200 style="float:right;" />
-</div>
 
 ## Experience
-**Internship at Wasmer** | *December 2019 - Now*
-- Wasmer is the start-up company based on San Francisco, California. They are making the WebAssembly runtime. I Worked on the language integration project, one of the foreign function interface (FFI) technologies. My project enables us to execute WebAssembly functions from another language.
+**Internship at Wasmer** | *December 2019 - February 2020*
+- [Wasmer](https://wasmer.io/) is the start-up company based on San Francisco, California. They are making [the WebAssembly runtime](https://github.com/wasmerio/wasmer). I worked on the language integration project, one of the foreign function interface (FFI) technologies. My project enables us to execute WebAssembly functions from another language.
 
 **Google Summer of Code 2019 at coreboot project** | *May 2019 - July 2019*
 - Worked on the coreboot, one of the open source projects, which aims at replacing proprietary firmware (BIOS or UEFI). My project was "Adding QEMU/AArch64 Support to Coreboot". Coreboot already supported an ARMv8 archtecture but it didn't have a QEMU board support for ARMv8. I added the support for QEMU/AArch64 to coreboot by C language and assembly language.
+  - [Commit logs](https://review.coreboot.org/q/owner:d0iasm)
   - [Project details](https://summerofcode.withgoogle.com/archive/2019/projects/4518359851335680/)
   - [Wrap-up blog](https://blogs.coreboot.org/blog/2019/08/23/gsoc-wrap-up-for-adding-qemu-aarch64-support-to-coreboot/)
 
 **Internship at Google** | *August 2018 - November 2018*
 - Worked on Chromium browser project in Google Japan. The projecrt was "ES Modules for Service Workers" that enable web developers to import JavaScript as a module system. I used C++ for the main implementation and JavaScript for unit tests and integrated tests.
-  - [Chromium Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi)
+  - [Commit logs](https://chromium-review.googlesource.com/q/owner:asamidoi)
   - [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/)
   - [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
 
