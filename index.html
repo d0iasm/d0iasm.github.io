@@ -19,35 +19,48 @@
         font-size: 2em;
       }
     }
-    h1, h2, div, h4, h5, h6 {
-      margin: 0 0 0.5em 0;
+    h1, h2, h3, h4, h5, h6 {
+      margin: 0;
       padding: 0;
     }
     h2 {
       border-bottom: 3px black solid;
     }
     p {
-      margin: 0 auto 0.5em auto;
+      margin: 0;
     }
     .container {
-      display: flex;
       margin: 10px 0;
-    }
-    .left {
-      width: 27%;
-    }
-    .right {
-      width: 73%;
-    }
-    .copyright {
-      background-color: #eee;
-      padding: 10px 0;
-      font-size: 14px;
-      margin-bottom: 0;
     }
     .title {
       font-weight: bold;
-      margin-bottom: 0;
+    }
+    .date {
+      font-style: italic;
+    }
+    .tag {
+      border-radius: 7px;
+      color: #fff;
+      display: inline-block;
+      font-size: 14px;
+      height: 20px;
+      line-height: 20px;
+      margin: 0 0 0 10px;
+      padding: 0 7px;
+    }
+    .copyright {
+      color: #777;
+      text-align: center;
+      margin: 10px 0 0 0;
+    }
+    .rust {
+      background: #FF3F16;
+    }
+    .wasm{
+      background: #6016FF;
+    }
+    .go {
+      background: #16BCFF;
     }
   </style>
 </head>
@@ -61,96 +74,56 @@
 
   <h2>Experience</h2>
   <div class="container">
-    <div class="left">
-      Apr 2020 - Present
-    </div>
-    <div class="right">
-      <div class="title">Software engineer at Google</div>
-      I'm working on Chromium browser projects.
-    </div>
+    <p class="title">Software engineer at Google</p>
+    <p class="date">April 2020 - Present</p>
+    <p>I'm working on Chromium browser projects.</p>
   </div>
   <div class="container">
-    <div class="left">
-      Dec 2019 - Feb 2020
-    </div>
-    <div class="right">
-      <div class="title">Internship at Wasmer</div>
-      Wasmer is the start-up company working on <a href="https://github.com/wasmerio/wasmer">Wasmer</a>, a WebAssembly runtime. I worked on language integration projects to enable using WebAssembly from other programming languages.
-    </div>
+    <p class="title">Internship at Wasmer</p>
+    <p class="date">December 2019 - February 2020</p>
+    <p>Wasmer is the start-up company working on <a href="https://github.com/wasmerio/wasmer">Wasmer</a>, a WebAssembly runtime. I worked on language integration projects to enable using WebAssembly from other programming languages.</p>
   </div>
   <div class="container">
-    <div class="left">
-      May 2019 - Jul 2019
-    </div>
-    <div class="right">
-      <div class="title">Google Summer of Code 2019</div>
-      Worked on the <a href="https://www.coreboot.org/">coreboot</a> project, which aims at replacing proprietary firmware (BIOS or UEFI). My project was "Adding QEMU/AArch64 Support to Coreboot". Coreboot already supported an ARMv8 archtecture but it didn't have a QEMU board support for ARMv8. I added the support for QEMU/AArch64 to coreboot by C language and assembly language.
-    </div>
+    <p class="title">Google Summer of Code 2019</p>
+    <p class="date">May 2019 - July 2019</p>
+    <p>Worked on the <a href="https://www.coreboot.org/">coreboot</a> project, which aims at replacing proprietary firmware (BIOS or UEFI). My project was "Adding QEMU/AArch64 Support to Coreboot". Coreboot already supported an ARMv8 archtecture but it didn't have a QEMU board support for ARMv8. I added the support for QEMU/AArch64 to coreboot by C language and assembly language.</p>
   </div>
   <div class="container">
-    <div class="left">
-      Aug 2018 - Nov 2018
-    </div>
-    <div class="right">
-      <div class="title">Internship at Google</div>
-      Worked on Chromium browser projects at Google Japan. The main project was "ES Modules for Service Workers" that enable web developers to import JavaScript as a module system. I used C++ for the main implementation and JavaScript for unit tests and integrated tests.
-    </div>
+    <p class="title">Internship at Google</p>
+    <p class="date">August 2018 - November 2018</p>
+    <p>Worked on Chromium browser projects at Google Japan. The main project was "ES Modules for Service Workers" that enable web developers to import JavaScript as a module system. I used C++ for the main implementation and JavaScript for unit tests and integrated tests.</p>
   </div>
   <h2>Education</h2>
   <div class="container">
-    <div class="left">
-      Apr 2018 - Mar 2020
-    </div>
-    <div class="right">
-      <div class="title">Master of Informatics at Nagoya University</div>
-      Worked on a research project in the ALife field. In my research, I was trying to understand the dynamics of human's relationship based on a self-driven particle system.
-    </div>
+    <p class="title">Master of Informatics at Nagoya University</p>
+    <p class="date">April 2018 - March 2020</p>
+    <p>Worked on a research project in the ALife field. In my research, I was trying to understand the dynamics of human's relationship based on a self-driven particle system.</p>
   </div>
   <div class="container">
-    <div class="left">
-      Apr 2014 - Mar 2018
-    </div>
-    <div class="right">
-      <div class="title">Bachelor of Design at Nagoya City University</div>
-      Learned about UI/UX design, product design, and design thinking which is the process to understand users and redefine problems in order to produce valuable solutions.
-    </div>
+    <p class="title">Bachelor of Design at Nagoya City University</p>
+    <p class="date">April 2014 - March 2018</p>
+    <p>Learned about UI/UX design, product design, and design thinking which is the process to understand users and redefine problems in order to produce valuable solutions.</p>
   </div>
   <h2>Projects</h2>
   <div class="container">
-    <div class="left">
-      Oct 2019 - Present
-    </div>
-    <div class="right">
-      <div class="title"><a href="https://github.com/d0iasm/rvemu">rvemu</a></div>
-      RISC-V online emulator with WebAssembly generated by Rust. You can execute RISC-V binaries at <a href="https://rvemu.app/">rvemu.app</a>.
-    </div>
+    <p class="title"><a href="https://github.com/d0iasm/rvemu">rvemu</a><span class="tag rust">Rust</span><span class="tag wasm">WebAssembly</span></p>
+    <p class="date">October 2019 - Present</p>
+    <p>RISC-V online emulator with WebAssembly generated by Rust. You can execute RISC-V binaries at <a href="https://rvemu.app/">rvemu.app</a>.</p>
   </div>
   <div class="container">
-    <div class="left">
-      Oct 2019
-    </div>
-    <div class="right">
-      <div class="title"><a href="https://github.com/d0iasm/x86emu">x86emu</a></div>
-      A x86 emulator in Rust. This is a porting from the implementation written by C in the book "自作エミュレータで学ぶx86アーキテクチャ". It can now execute a binary file to calculate fibonacci numbers. There is a binary file for calculating a fibonacci number 10 (=55) in the test directory.
-    </div>
+    <p class="title"><a href="https://github.com/d0iasm/x86emu">x86emu</a><span class="tag rust">Rust</span></p>
+    <p class="date">October 2019</p>
+    <p>A x86 emulator in Rust. This is a porting from the implementation written by C in the book "自作エミュレータで学ぶx86アーキテクチャ". It can now execute a binary file to calculate fibonacci numbers. There is a binary file for calculating a fibonacci number 10 (=55) in the test directory.</p>
   </div>
   <div class="container">
-    <div class="left">
-      Aug 2019 - suspended development
-    </div>
-    <div class="right">
-      <div class="title"><a href="https://github.com/d0iasm/minigo">minigo</a></div>
-      A minimum Go compiler in Go that aims to do self-hosting. The grammer is a subset of <a href="https://golang.org/ref/spec">the official specification</a>. It can compile the Go file which calculate fibonacci numbers. It is now suspended development.
-    </div>
+    <p class="title"><a href="https://github.com/d0iasm/minigo">minigo</a><span class="tag go">Go</span></p>
+    <p class="date">August 2019 - suspended development</p>
+    <p>A minimum Go compiler in Go that aims to do self-hosting. The grammer is a subset of <a href="https://golang.org/ref/spec">the official specification</a>. It can compile the Go file which calculate fibonacci numbers. It is now suspended development.</p>
   </div>
   <div class="container">
-    <div class="left">
-      Mar, Oct 2019
-    </div>
-    <div class="right">
-      <div class="title"><a href="https://github.com/d0iasm/mdtohtml">mdtohtml</a></div>
-      A HTML generator from a Markdown file implemented in Go. The unique feature of this tool is that default result file includes CSS, but you can skip to include CSS by passing a parameter.
-    </div>
+    <p class="title"><a href="https://github.com/d0iasm/mdtohtml">mdtohtml</a><span class="tag go">Go</span></p>
+    <p class="date">March, October 2019</p>
+    <p>A HTML generator from a Markdown file implemented in Go. The unique feature of this tool is that default result file includes CSS, but you can skip to include CSS by passing a parameter.</p>
   </div>
   <p>For more information about me, see <a href="./more.html">this resume site</a>.</p>
   <p class="copyright">Copyright © 2020 Asami Doi. All rights reserved.</p>
