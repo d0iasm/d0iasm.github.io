@@ -2,7 +2,7 @@
 
 **Asami Doi**
 
-Software engineer at Japan. I'm interested in systems programming especially an emulator, an OS, and a compiler. Love programming ❤️
+Software engineer in Japan. I'm interested in systems programming especially an emulator, an OS, and a compiler. Love programming ❤️
 
 [Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note](https://note.com/d0iasm)
 
