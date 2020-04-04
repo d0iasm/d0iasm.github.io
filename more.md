@@ -2,11 +2,14 @@
 
 **Asami Doi**
 
-Master's student researching on artificial life (ALife) in Japan. I'm interested in low-level programming especially an emulator, an OS, and a compiler. Love programming ❤️
+Software engineer at Japan. I'm interested in systems programming especially an emulator, an OS, and a compiler. Love programming ❤️
 
 [Twitter](https://twitter.com/d0iasm) | [GitHub](https://github.com/d0iasm) | [Tech blog](https://d0iasm.github.io/blog/) | [note](https://note.com/d0iasm)
 
 ## Experience
+**Software Engineer at Google** | *April 2020 - Now*
+- Working on Chromium browser team.
+
 **Internship at Wasmer** | *December 2019 - February 2020*
 - [Wasmer](https://wasmer.io/) is the start-up company based on San Francisco, California. They are making [the WebAssembly runtime](https://github.com/wasmerio/wasmer). I worked on the language integration project, one of the foreign function interface (FFI) technologies. My project enables us to execute WebAssembly functions from another language.
 
@@ -17,7 +20,7 @@ Master's student researching on artificial life (ALife) in Japan. I'm interested
   - [Wrap-up blog](https://blogs.coreboot.org/blog/2019/08/23/gsoc-wrap-up-for-adding-qemu-aarch64-support-to-coreboot/)
 
 **Internship at Google** | *August 2018 - November 2018*
-- Worked on Chromium browser project in Google Japan. The projecrt was "ES Modules for Service Workers" that enable web developers to import JavaScript as a module system. I used C++ for the main implementation and JavaScript for unit tests and integrated tests.
+- Worked on Chromium browser project in Google Japan. The project was "ES Modules for Service Workers" that enable web developers to import JavaScript as a module system. I used C++ for the main implementation and JavaScript for unit tests and integrated tests.
   - [Commit logs](https://chromium-review.googlesource.com/q/owner:asamidoi)
   - [Design document](https://docs.google.com/document/d/1SeQ085YdBTtW3D_ygSpO0Wz2DAe8QiS1gj37IG5lstg/)
   - [Slide](https://docs.google.com/presentation/d/19mLH9FK5mOXlcQQkAb1QSeP7BZFV4ZRxNigX55EGeOA/)
@@ -56,7 +59,7 @@ Master's student researching on artificial life (ALife) in Japan. I'm interested
 
 ## Education
 **Master of Informatics at Nagoya University** | *April 2018 - March 2020*
-- Working on the research project in ALife field and studying about computer science. In my research, I'm trying to understand the dynamics of human's relationship based on self-driven particle system.
+- Worked on a research project in the ALife field. In my research, I was trying to understand the dynamics of human's relationship based on a self-driven particle system.
 
 **Bachelor of Design at Nagoya City University** | *April 2014 - March 2018*
 - Learned about UI/UX design, product design, and design thinking which is the process to understand users and redefine problems in order to produce valuable solutions.
@@ -140,7 +143,7 @@ Master's student researching on artificial life (ALife) in Japan. I'm interested
 ## Certifications
 - TOEIC score 910 | *November 2019*
 - Applied Information Technology Engineer Examination (応用情報技術者試験) | *April 2018*
-- 色彩検定1級
+- 色彩検定1級 | *November 2014*
 
 ## Miscellaneous
 - Study abroad at Goldsmiths, University of London | *October 2019*
