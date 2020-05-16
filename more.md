@@ -70,7 +70,7 @@ Software engineer in Japan. I'm interested in systems programming especially an 
 - Poster presentation with "[Graphy: Chat Bot with Evolutionary Concept Graph using Dependency Analysis](http://www.interaction-ipsj.org/proceedings/2018/data/pdf/2P07.pdf)" at Interaction 2018 | *March 2018*
 
 ## Personal Projects
-**[Writing a RISC-V Emulator from Scratch in 10 Steps](https://book.rvemu.app/) | *April 2020 - Now*
+**[Writing a RISC-V Emulator from Scratch in 10 Steps](https://book.rvemu.app/)** | *April 2020 - Now*
 - A book for writing a 64-bit RISC-V emulator from scratch in Rust. It shows us how to implement an emulator in 10 steps. You can run xv6, a simple Unix-like OS, in your emulator in the final step.
 
 **[rvemu](https://github.com/d0iasm/rvemu)** | *October 2019 - Now*
@@ -106,7 +106,7 @@ Software engineer in Japan. I'm interested in systems programming especially an 
 ## OSS Contributions
 **wasmerio/java-ext-wasm**
 - [Commits list in GitHub](https://github.com/wasmerio/java-ext-wasm/search?q=author%3Ad0iasm&type=Commits)
-- Worked as a one of the main developpers.
+- Worked as a one of the main developers.
 
 **wasmerio/wasmer**
 - [Adapt backend usage depending on wasm file executed](https://github.com/wasmerio/wasmer/pull/1004)
@@ -118,7 +118,7 @@ Software engineer in Japan. I'm interested in systems programming especially an 
 - [Commits list in Gerrit](https://review.coreboot.org/q/owner:d0iasm)
 
 **Chromium**
-- [Commits list in Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi)
+- [Commits list in Gerrit](https://chromium-review.googlesource.com/q/owner:asamidoi%2540google.com)
 
 **rustwasm/book**
 - [Update the template source code](https://github.com/rustwasm/book/pull/194)
